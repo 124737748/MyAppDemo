@@ -1,0 +1,9 @@
+E:\学习  测试\asp.net\App2\App2\obj\Debug\assemblies\App2.dll
+E:\学习  测试\asp.net\App2\App2\obj\Debug\assemblies\Mono.Android.dll
+E:\学习  测试\asp.net\App2\App2\obj\Debug\assemblies\mscorlib.dll
+E:\学习  测试\asp.net\App2\App2\obj\Debug\assemblies\System.Core.dll
+E:\学习  测试\asp.net\App2\App2\obj\Debug\assemblies\System.dll
+E:\学习  测试\asp.net\App2\App2\obj\Debug\assemblies\System.Xml.dll
+E:\学习  测试\asp.net\App2\App2\obj\Debug\assemblies\System.Xml.Linq.dll
+E:\学习  测试\asp.net\App2\App2\obj\Debug\assemblies\System.Runtime.Serialization.dll
+E:\学习  测试\asp.net\App2\App2\obj\Debug\assemblies\System.ServiceModel.Internals.dll
